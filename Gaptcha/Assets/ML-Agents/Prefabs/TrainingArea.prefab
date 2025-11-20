@@ -841,7 +841,7 @@ MonoBehaviour:
   m_Model: {fileID: 0}
   m_InferenceDevice: 0
   m_BehaviorType: 0
-  m_BehaviorName: DodgeBehaviour
+  m_BehaviorName: FinalBehaviour
   TeamId: 0
   m_UseChildSensors: 0
   m_UseChildActuators: 1
@@ -1356,7 +1356,9 @@ MonoBehaviour:
   visualAgent: {fileID: 5136336525042765507}
   gamesParent: {fileID: 1986530577516948326}
   gameManagerList:
+  - {fileID: 1670260807080994354}
   - {fileID: 225639822680945501}
+  - {fileID: 7061680080004752186}
 --- !u!1 &6934185208743122856
 GameObject:
   m_ObjectHideFlags: 0
