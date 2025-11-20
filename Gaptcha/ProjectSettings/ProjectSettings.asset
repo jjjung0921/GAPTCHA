@@ -658,7 +658,13 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -680,11 +686,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: dafda6d2-3c16-4b66-8e0c-cc7851aebe71
+  cloudProjectId: 1868453d-9dcf-473e-b6d2-1733e21b4dfc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Dotge
-  organizationId: lustsdfsf
+  projectName: Gaptcha (2)
+  organizationId: jjjung0921
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
